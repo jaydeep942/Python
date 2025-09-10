@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+pip-wheel-metadata/
+.tox/
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# VS Code
+.vscode/
+# Exclude specific VS Code files if desired, e.g.:
+#.vscode/settings.json
+#.vscode/tasks.json
+#.vscode/launch.json
+#.vscode/extensions.json
+
+# Operating System files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Environment variables
+.env
