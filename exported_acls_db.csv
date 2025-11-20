@@ -1,0 +1,7 @@
+"id","calendar_id","role"
+"473c3664-7c2e-40d3-98cf-663c682405d3","88c54df0-1b60-4153-afa0-d0d1fc379e26","owner"
+"28d295b5-383c-4c05-aadd-e922fa70066d","68a450e9-ad97-40a2-919d-4dbfb47bc749","reader"
+"16df3481-0427-4d19-ba39-05fc28c67585","8ee0eaea-568b-4002-bbba-bfd4f05826e1","reader"
+"7631664e-67ed-4657-9b10-3b18034c59a2","5fc7135b-e3c0-4905-beff-cffab1eb8093","reader"
+"acl-88c54df0-1b60-4153-afa0-d0d1fc379e26-owner","88c54df0-1b60-4153-afa0-d0d1fc379e26","owner"
+"acl-88c54df0-1b60-4153-afa0-d0d1fc379e26-writer","88c54df0-1b60-4153-afa0-d0d1fc379e26","writer"
